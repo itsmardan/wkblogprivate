@@ -1,0 +1,69 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Review",
+    "itemReviewed": {
+      "@type": "Person",
+      "name": "Dr. Wajid Khan",
+      "sameAs": "http://www.wajidkhan.info"
+    },
+    "reviewRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "4"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Capt. Andy Maclachlan"
+        },
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Dr. Khan excels in clarity and innovation, turning complex ideas into actionable strategies.",
+        "datePublished": "2024-01-21"
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Niraz Buhari"
+        },
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Dr. Khan's blend of personality and experience infuses our projects with innovative momentum.",
+        "datePublished": "2024-01-21"
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Shahad Ahmad"
+        },
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Each session with Dr. Khan unveils revolutionary insights and unmatched tailored solutions.",
+        "datePublished": "2024-01-21"
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Professor Edmond Prakash"
+        },
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Dr. Khan's expertise shines brightly, transforming challenges into triumphs at every turn.",
+        "datePublished": "2024-01-21"
+      }
+    ]
+  }
+  

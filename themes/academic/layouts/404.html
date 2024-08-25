@@ -1,0 +1,77 @@
+{{ define "main" }}
+  <main id="main">
+    <h1>
+      <svg class="bookmark-icon" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
+        <use href="#bookmark"></use>
+      </svg>
+      {{ .Title }}
+    </h1>
+
+    <div class="date">
+      {{ $dateFormat := $.Site.Params.dateFormat | default "Jan 2, 2024" }}
+
+      
+<div class="offer">
+  <strong>Unlock Digital Mastery:</strong> Accelerate your online growth with bespoke software and innovative marketing strategies. Partner with us for a journey to digital excellence.<br>
+  <a href="/services/" style="color: #3333CC; ">Discover Our Services &raquo;</a>
+</div>
+
+<div class="offer2">
+  <strong>Side Hustle Success:</strong> Dreaming of your own side hustle in 2024? Together, let's turn that dream into a dazzling reality. Your future awaits.<br>
+  <a href="/side-hustle/" style="color: #CC0066;">Start Your Journey &raquo;</a>
+</div>
+
+<div class="offer3">
+  <strong>From Vision to Victory:</strong> Jumpstart your journey from idea to impact with a single call. We're here to elevate your ambitions into achievements.<br>
+  <a href="/short-call/" style="color: #0066CC;">Schedule Your Strategy Session &raquo;</a>
+</div>
+
+<div class="offer4">
+  <strong>Real Reviews, Real Results:</strong> Dive into the success stories that define us. Discover the difference we've made through the voices of those who've walked the path with us.<br>
+  <a href="/reviews/" style="color: #CC6600;">Explore Our Impact &raquo;</a>
+</div>
+
+<h2>Connect with me:</h2>
+
+<ul>
+  <li><strong>Email:</strong> <a href="mailto:me@wajidkhan.info">me@wajidkhan.info</a></li>
+  <li><strong>Call:</strong> <a href="tel:+442033692017">+44 20 3369 2017</a></li>
+  <li><strong>WhatsApp/Text:</strong> <a href="tel:00447915762239">+44 791 576 2239</a></li>
+  <li><strong>Schedule a Call:</strong> <a href="https://calendly.com/drwkhan/short-call">Let's Talk</a></li>
+</ul>
+
+
+    <p> 😊 Oops! It seems like you've reached a roadblock. Not to worry, I'm here to assist you.  <br> <br>
+
+        You might have encountered this page because we've made some changes to our content or reorganised it. Your journey doesn't end here; it's just a new beginning. <br> <br>
+        
+        I'm Dr. Wajid Khan, a friendly London-based software engineer, dedicated to supporting startups and established businesses. My passion lies in crafting custom software solutions and tailored marketing strategies to help your business thrive. <br> <br>
+        
+        If you have any questions, need support, or simply want to explore how we can work together, please feel free to reach out to me at me@wajidkhan.info. Your success is my priority, and I look forward to assisting you on your unique journey. <br> <br></p>
+   
+    </div>
+
+    {{ with .Params.tags }}
+      <div class="tags">
+        <strong>{{ T "tags" }} </strong>
+        <ul aria-label="{{ T "aria_label_tags" }}">
+          {{ range . }}
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use href="#tag"></use>
+              </svg>
+              {{ $href := print ("tags/" | relLangURL) (. | urlize) "/" }}
+              <a href="{{ $href }}">{{ . }}</a>
+            </li>
+          {{ end }}
+        </ul>
+      </div>
+    {{ end }}
+
+    {{ partial "toc.html" . }}
+
+    {{ .Content }}
+  </main>
+  {{ partial "disqus.html" . }}
+  {{ partial "utterances.html" . }}
+{{ end }}

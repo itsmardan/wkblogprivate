@@ -1,0 +1,89 @@
+#search {
+  height: 50px;
+  width: 100%;
+  padding: 8px;
+  border: 2px solid;
+  line-height: 1.6;
+  font-size: 1.25rem;
+}
+.offer {
+  border: 2px dotted #888888;
+  background-color: #FFFFE0;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 1.2em;
+}
+
+.offer2 {
+  border: 2px dashed #0066CC;
+  background-color: #E0FFFF;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 1.2em;
+}
+
+.offer3 {
+  border: 2px solid #CC0066;
+  background-color: #FFEBCC;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 1.2em;
+}
+.offer4 {
+  border: 2px dotted #CC6600; 
+  background-color: #F0FFF0; 
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 1.2em;
+}
+
+a {
+  color: #3333CC;
+}
+
+
+.review-container {
+  margin-bottom: 30px;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.review-container:hover {
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.review {
+  border: 3px dashed #0066CC;
+  background-color: #E0FFFF;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 1.2em;
+}
+
+.review .stars {
+  color: #3333CC;
+  font-size: 28px;
+}
+
+.review-text {
+  font-size: 20px;
+  color: #000;
+  margin-top: 10px;
+  line-height: 1.6;
+}
+
+.review-author {
+  
+  font-size: 12px;
+  color: #3333CC;
+  margin-top: 15px;
+  text-align: right;
+}
+

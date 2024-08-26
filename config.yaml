@@ -2,7 +2,7 @@ baseURL: https://wajidkhan.info
 #baseURL: https://localhost:1313
 languageCode: en-us
 defaultContentLanguage: en
-title: Empowering London Startups Dr. Wajid Khan's Journey in AI, Software Development, and Digital Marketing Mastery
+title: 
 theme: academic
 #googleAnalytics: UA-123456789-1
 disqusShortname: Dr Khan
@@ -17,7 +17,7 @@ imaging:
   quality: 99
 
 params:
-  description: Dr. Khan Mastering the Art of AI and Data Science, <br><br> <b>Engineering the Future</b> <i>Your Vision, My Code, Our Reality.</i>
+  description: Dr. Wajid Khan, PhD, <i>Policy, Strategy, Data, AI, Coder, Educator, Tech Consultant.</i> <br><br> <b>Engineering the Future!</b> 
   homeMetaContent: Dr. Wajid Khan Mastering the Art of AI and Data Science. Engineering the Future. Your Vision, My Code, Our Reality.
   footer: Dr  [Wajid Khan](https://wajidkhan.info/) 2007 -2024. 
   dateFormat: Jan 24, 2024
@@ -46,24 +46,28 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: Startup Valuation 
-      url: /startup-valuation/
-      weight: 2
+    - name: Startup Tech Valuation 
+      url: /startup-tech-valuation/
+      weight: 3
     - name: Tech Team Building
       url: /technology-team-building/
-      weight: 3
-    - name: Legacy Softwaare Audits
+      weight: 2
+    - name: Legacy Software Audits
       url: /legacy-custom-software-audits/
       weight: 4
-    - name: Technology Bootcamps
-      url: /technology-bootcamps//
+
+    - name: Trademarks & Patents
+      url: /trademarks-and-patents-uk/
       weight: 5
-    - name: Research Interest
+    - name: Research Interests
       url: /research-and-interests/
       weight: 6
+    - name: Private DAP
+      url: /private-digi-assets-pool/
+      weight: 7
     - name: Contact Me
       url: /contact/
-      weight: 7
+      weight: 8
 
 
 markup:

@@ -115,34 +115,39 @@ div:not([tabindex]):focus {
     outline: none;
 }
 
+
+p {
+
+    font-size:18px;
+}
 /* Text styles */
 h1,
 h2,
 h3,
 h4 {
-    font-family: Miriam Libre, serif;
+ 
+    font-family: Gotham, sans-serif;
     line-height: 1.125;
-    color:#6F42C1;
-    font-weight: bold;
+    font-weight: 700;
    
 }
 h1 {
-    font-size: 1.35rem;
-    color:#6F42C1;
+    font-size: 2.1rem;
+    color:#000;
   
 }
 h2 {
-    font-size: 1.25rem;
+    font-size: 1.3rem;
    
 
 }
 h3 {
-    font-size: 1.15rem;
+    font-size: 1.2rem;
 }
 h4,
 h5 {
-    font-size: 1rem;
-    font-family: PT Sans, sans-serif;
+    font-size: 1.1rem;
+    font-family: 'Oswald', sans-serif;
 }
 h5 {
     font-size: 0.85rem;
@@ -188,6 +193,8 @@ code {
 main ul,
 main ol {
     margin-left: 2.25rem;
+    font-size:16px;
+
 }
 main li + li {
     margin-top: 0.5rem;
@@ -765,6 +772,7 @@ h1 svg {
 .link-icon {
   width: 0.75em;
   height: 0.75em;
+  display: none;
 }
 .tags svg, .link-icon {
   vertical-align: middle;

@@ -46,8 +46,8 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: Startup Tech Valuation 
-      url: /startup-tech-valuation/
+    - name: Startup Tech Evaluation 
+      url: /startup-tech-evaluation/
       weight: 3
     - name: Tech Team Building
       url: /technology-team-building/

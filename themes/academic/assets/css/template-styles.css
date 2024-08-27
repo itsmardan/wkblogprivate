@@ -118,7 +118,7 @@ div:not([tabindex]):focus {
 
 p {
 
-    font-size:18px;
+    font-size:14px;
 }
 /* Text styles */
 h1,
@@ -193,7 +193,7 @@ code {
 main ul,
 main ol {
     margin-left: 2.25rem;
-    font-size:16px;
+    font-size:12px;
 
 }
 main li + li {
@@ -416,6 +416,7 @@ caption {
     flex-wrap: nowrap;
     align-items: baseline;
     font-weight: bold;
+    font-size:12px;
     padding: 0 1rem;
     padding-top: 0.5em;
     padding-bottom: 0.5em;

@@ -8,9 +8,9 @@ description: "Discover bespoke software and strategic digital marketing solution
 keywords: "custom software, digital marketing, AI-driven solutions, SME growth, startup innovation"
 ---
 
-# Get your side gig off the ground with zero fuss - first 10 clients guaranteed, starting from £5K.
+# Get your side gig off the ground with zero fuss - first 10 clients guaranteed, starting from £££££s.
 
-Choose us for **custom software development** that kick-starts your business with an exclusive offer: a complimentary £800 **digital marketing** campaign. This unique benefit ensures you start earning revenue even before your official launch.
+Choose us for **custom software development** that kick-starts your business with an exclusive offer: a complimentary £££ **digital marketing** campaign. This unique benefit ensures you start earning revenue even before your official launch.
 
 ## Why Us?
 
@@ -37,14 +37,14 @@ Depending on the project's complexity and simplicity, we guarantee the acquisiti
 - Two optional custom **domains**.
 - Custom **CRM** for lead and sales management.
 - **Communication tracking** across text, WhatsApp, and email.
-- An £800 **PPC advertising** budget is included.
+- An £££ **PPC advertising** budget is included.
 - Full **intellectual property ownership**.
 
 ### Growth Package 
 
 - Includes everything from the Solo Package.
 - Three extra modules: **AI sales automation**, essential **financial management**, and more.
-- Option to add custom modules at £2,000 each.
+- Option to add custom modules at ££££s each.
 
 ### Enterprise Solution 
 

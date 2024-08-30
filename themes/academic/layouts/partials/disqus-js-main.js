@@ -1,4 +1,4 @@
-// Config
+// Config -d
 var disqus_config = function () {
 };
 var d = document;

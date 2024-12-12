@@ -31,7 +31,8 @@ template {
   display: none !important;
 }
 * + * {
-    margin-top: 2.25rem;
+    margin-top: 1.25rem;
+  
 }
 br,
 dt,
@@ -46,7 +47,7 @@ body,
     margin-top: 0;
 }
 p + p {
-    margin-top: 0.75rem;
+    margin-top: 1.0rem;
 }
 .priority {
   margin-top: 0;
@@ -118,7 +119,7 @@ div:not([tabindex]):focus {
 
 p {
 
-    font-size:14px;
+    font-size:16px;
 }
 /* Text styles */
 h1,
@@ -137,7 +138,7 @@ h1 {
   
 }
 h2 {
-    font-size: 1.3rem;
+    font-size: 1.8rem;
    
 
 }
@@ -155,7 +156,7 @@ h5 {
 }
 kbd {
     line-height: 1;
-    font-size: 0.66rem;
+    font-size: 1.66rem;
     padding: 0.1rem 0.33rem;
     border-radius: 0.25rem;
     border: 2px solid;
@@ -193,7 +194,7 @@ code {
 main ul,
 main ol {
     margin-left: 2.25rem;
-    font-size:12px;
+    font-size:13px;
 
 }
 main li + li {
@@ -507,7 +508,8 @@ caption {
     white-space: nowrap;
     margin: 0 0.25rem 0 0;
 }
-
+p strong {
+font-style: oblique;    }
 /* Date */
 .date {
     margin-top: 0;

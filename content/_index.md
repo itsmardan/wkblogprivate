@@ -8,24 +8,30 @@ keywords: "Dr. Wajid Khan, tech team building, startup evaluation, legacy softwa
 permalink: "/"
 ---
 
-**Policy, Strategy, Data, AI, Coder, Educator, Tech Consultant**
+**Software Engineer, Teacher, Data Advisor**
 
-Welcome to Dr. Wajid Khan’s professional hub. Specialising in policy, strategy, data science, AI, and software development, Dr. Khan provides solutions that drive innovation and technology forward. Expertise spans across tech team building, startup tech evaluation, legacy software audits, and intellectual property protection.
+Your business carries your **dreams, sacrifices,** and the **future** you want to create. But success today requires more than hard work; it needs answers to the right data questions and the **courage** to act on the facts.
+
+![Alt text](/images/3ds6.jpg)
+
+
+## 1. Discover
+
+**Every business problem has a solution in its data.** Identify your most valuable customers to find growth opportunities. Explore why some products are selling less to pinpoint areas for improvement. **Investigate** service delays to uncover **operational**  bottlenecks.
+
+## 2. **Disrupt** 
+Stand apart from the crowd by **challenging** outdated ways of thinking. Use data facts to create **bold** strategies that break barriers and position your business as a **leader.**
+
+## 3. **Deliver** 
+Build a future that lasts. Shape your business into a **valuable legacy** with systems and insights that ensure it thrives; whether you *pass it on, scale it up,* or sell it.
+
+> Every decision is a step toward the future you envision. Turn your vision into reality, powered by the stories your data tells.
 
 ## Engineering the Future
 Pioneering advancements in data, AI, and strategic foresight to shape the future of technology.
 
-- [**Home**](/): Overview of services and expertise.
-- [**Startup Tech Evaluation**](/startup-tech-evaluation/): Evaluating and scaling startup technologies.
-- [**Tech Team Building**](/technology-team-building/): Building and managing high-performance tech teams.
-- [**Legacy Software Audits**](/legacy-custom-software-audits/): Optimsing and future-proofing legacy systems.
-- [**Research Interests**](/research-and-interests/): Focus on data, AI, and emerging technologies.
-- [**Trademarks & Patents**](/trademarks-and-patents-uk/): Protecting intellectual property.
-- [**Private DAP**](/private-digi-assets-pool/): Exploring Digital Asset Pools (DAPs).
-- [**Contact Me**](/contact/): Enquiries and consultations.
 
----
+<img src="https://wajidkhan.info/images/drwkhan_s.svg" style="padding:15px; float:left;" alt="Dr. Wajid Khan" width="180" height="90"> <br>
 
-This site serves as a comprehensive resource for individuals and businesses seeking expertise in technology, data strategy, and intellectual property protection. Whether you are a startup founder, a tech executive, or a researcher, Dr. Wajid Khan’s knowledge and experience are here to guide you on your journey toward success.
-
-**Explore, learn, and connect with Dr. Wajid Khan today!**
+Sincerely,
+## Dr. Wajid Khan

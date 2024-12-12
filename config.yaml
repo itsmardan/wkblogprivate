@@ -17,7 +17,7 @@ imaging:
   quality: 99
 
 params:
-  description: Dr. Wajid Khan, PhD, <i>Policy, Strategy, Data, AI, Coder, Educator, Tech Consultant.</i> <br><br> <b>Engineering the Future!</b> 
+  description: Dr. Wajid Khan, PhD, <i>Software Engineer, Teacher, Data and AI Advisor</i> <br><br> <b>Engineering the Future!</b> 
   homeMetaContent: Dr. Wajid Khan Mastering the Art of AI and Data Science. Engineering the Future. Your Vision, My Code, Our Reality.
   footer: Dr  [Wajid Khan](https://wajidkhan.info/) 2007 -2024. 
   dateFormat: Jan 24, 2024
@@ -46,27 +46,23 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: Startup Tech Evaluation 
-      url: /startup-tech-evaluation/
-      weight: 3
-    - name: Tech Team Building
-      url: /technology-team-building/
-      weight: 2
-    - name: Legacy Software Audits
-      url: /legacy-custom-software-audits/
-      weight: 4
-
-    - name: Trademarks & Patents
-      url: /trademarks-and-patents-uk/
+    - name: Data Services
+      url: /data-services/
       weight: 5
-    - name: Research Interests
-      url: /research-and-interests/
+    - name: Data Visualisation
+      url: /data-visualisation/
+      weight: 2
+    - name: Data & AI Ethics
+      url: /data-and-ai-ethics/
+      weight: 3
+    - name: Bespoke Software
+      url: /bespoke-software/
+      weight: 2
+    - name: Teachings
+      url: /teachings/
       weight: 6
-    - name: Private DAP
-      url: /private-digi-assets-pool/
-      weight: 7
-    - name: Contact Me
-      url: /contact/
+    - name: Hire Me
+      url: /hire-me/
       weight: 8
 
 

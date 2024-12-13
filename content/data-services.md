@@ -1,12 +1,13 @@
 ---
-title: "Data Services | Dr Wajid Khan, PhD | London and Islamabad"
+title: "Data Services"
 date: 2024-12-12T11:00:00Z
 layout: "single"
 theme: solutions
-description: "Unlock the full potential of your data with tailored solutions for analysis, insights, and transformation."
+description: "Tailored solutions to unlock your data's potential, led by Dr Wajid Khan from London and Islamabad."
 keywords: "data services, custom solutions, Python, NLP, AI, data analysis, structured data, unstructured data"
 permalink: "/data-services/"
 ---
+
 
 **Empowering Insights Through Data**
 

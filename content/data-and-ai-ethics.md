@@ -1,12 +1,13 @@
 ---
-title: "Data and AI Ethics | Dr Wajid Khan, PhD | London and Islamabad"
+title: "Data and AI Ethics"
 date: 2024-12-12T10:50:00Z
 layout: "single"
 theme: advisory
-description: "Understanding and implementing ethical principles in data and AI for responsible innovation."
+description: "Ethical principles in data and AI for responsible innovation, led by Dr Wajid Khan from London and Islamabad."
 keywords: "data ethics, AI ethics, compliance, security, ethical innovation, responsible data"
 permalink: "/data-and-ai-ethics/"
 ---
+
 
 Data and AI are revolutionising industries, reshaping public and private sectors alike. Yet, the transformative power of these technologies comes with profound ethical challenges. 
 

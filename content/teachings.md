@@ -3,9 +3,11 @@ title: "Teachings"
 date: 2024-12-12T11:10:00Z
 layout: "single"
 theme: inspiration
+description: "Inspiring the next generation through teachings in data, software, and visualisation from Dr Wajid Khan in London and Islamabad."
 keywords: "teaching, data, visualisation, software, youth empowerment, marketing, bootcamps, conferences"
 permalink: "/teachings/"
 ---
+
 
 **Inspiring a Million Dreams**
 

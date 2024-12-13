@@ -1,9 +1,9 @@
 ---
-title: "Bespoke Software | Dr Wajid Khan, PhD | London and Islamabad"
+title: "Bespoke Software"
 date: 2024-12-12T10:30:00Z
 layout: "single"
 theme: solutions
-description: "Tailored software solutions for unique business challenges, combining innovation and efficiency."
+description: "Dr Wajid Khan from London and Islamabad, Tailored software solutions for unique business challenges, combining innovation and efficiency."
 keywords: "custom software, bespoke development, business solutions, automation, innovation"
 permalink: "/bespoke-software/"
 ---

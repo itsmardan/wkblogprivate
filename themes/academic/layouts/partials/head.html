@@ -70,7 +70,7 @@
   
     {{ $title := .Title }}
     {{ if not .IsHome }}
-      {{ $title = print .Title " | " .Site.Title }}
+      {{ $title = print .Title "  " .Site.Title }}
     {{ end }}
     <title>{{ $title }}</title>
   

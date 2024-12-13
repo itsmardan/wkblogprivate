@@ -1,11 +1,13 @@
 ---
-title: "Hire Me | Dr Wajid Khan, PhD | London and Islamabad"
+title: "Hire Me"
 date: 2024-12-12T11:20:00Z
 layout: "contact2"
 theme: professional
+description: "Partner with Dr Wajid Khan from London and Islamabad for expert data consulting and software solutions."
 keywords: "hire me, data consulting, software development, visualisation expert, marketing strategist, Python, data advisor"
 permalink: "/hire-me/"
 ---
+
 
 **Let’s Build Something Extraordinary Together**
 

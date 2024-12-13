@@ -1,12 +1,13 @@
 ---
-title: "Data Visualisation | Dr Wajid Khan, PhD | London and Islamabad"
+title: "Data Visualisation"
 date: 2024-12-12T10:40:00Z
 layout: "single"
 theme: analytics
-description: "Uncover truths and insights through advanced data analysis and visualisation techniques."
+description: "Advanced data analysis and visualisation techniques, guided by Dr Wajid Khan from London and Islamabad."
 keywords: "data analysis, visualisation, email archives, Python, business insights, analytics"
 permalink: "/data-visualisation/"
 ---
+
 
 **Visual Insights, Powerful Decisions**
 
